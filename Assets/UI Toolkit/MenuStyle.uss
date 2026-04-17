@@ -1,0 +1,77 @@
+.button-style {
+    background-color: rgba(241, 241, 130, 0.27);
+    height: auto;
+    width: auto;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    font-size: 100px;
+    color: rgb(255, 222, 0);
+    -unity-font-definition: url('project://database/Assets/Fonts/%E7%AB%99%E9%85%B7%E5%B0%8F%E8%96%87LOGO%E4%BD%93%20SDF.asset?fileID=11400000&guid=0afa30cb86a390a4a9d47f424e6cd571&type=2#站酷小薇LOGO体 SDF');
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    padding-top: 100px;
+    padding-right: 100px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    text-shadow: 0.5px 0.5px 0 rgb(0, 0, 0);
+}
+
+.button-style:hover {
+    background-color: rgba(245, 245, 91, 0.75);
+    height: auto;
+    width: auto;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    font-size: 90px;
+    color: rgb(255, 222, 0);
+    -unity-font-definition: url('project://database/Assets/Fonts/%E7%AB%99%E9%85%B7%E5%B0%8F%E8%96%87LOGO%E4%BD%93%20SDF.asset?fileID=11400000&guid=0afa30cb86a390a4a9d47f424e6cd571&type=2#站酷小薇LOGO体 SDF');
+    margin-top: 60px;
+    margin-right: 60px;
+    margin-bottom: 60px;
+    margin-left: 60px;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    text-shadow: 0.5px 0.5px 0 rgb(0, 0, 0);
+}
+
+.button-style:active {
+    background-color: rgba(0, 236, 255, 0);
+    height: auto;
+    width: auto;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    font-size: 90px;
+    color: rgba(26, 207, 241, 0.38);
+    -unity-font-definition: url('project://database/Assets/Fonts/%E7%AB%99%E9%85%B7%E5%B0%8F%E8%96%87LOGO%E4%BD%93%20SDF.asset?fileID=11400000&guid=0afa30cb86a390a4a9d47f424e6cd571&type=2#站酷小薇LOGO体 SDF');
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    text-shadow: 0.5px 0.5px 0 rgb(0, 0, 0);
+}
